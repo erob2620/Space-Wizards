@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\skullball.png</Source>
+      <Name>Images\skullball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\skullball.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\threerings.png</Source>
+      <Name>Images\threerings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\threerings.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\leftarrowUp.png</Source>
+      <Name>GUI\leftarrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\GUI\leftarrowUp.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\spacewizardstitle.png</Source>
+      <Name>Backgrounds\spacewizardstitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\spacewizardstitle.xnb</Output>
+      <Time>2014-08-28T15:53:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\CombatBackground.png</Source>
+      <Name>Backgrounds\CombatBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\CombatBackground.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\firstEnemy.png</Source>
+      <Name>Images\firstEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\firstEnemy.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\secondEnemy.png</Source>
+      <Name>Images\secondEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\secondEnemy.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\thirdEnemy.png</Source>
+      <Name>Images\thirdEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\thirdEnemy.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile0.png</Source>
+      <Name>Images\tile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile0.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile1.png</Source>
+      <Name>Images\tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile1.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile2.png</Source>
+      <Name>Images\tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile2.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile3.png</Source>
+      <Name>Images\tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile4.png</Source>
+      <Name>Images\tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile4.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\GameOverScreen.png</Source>
+      <Name>Backgrounds\GameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\GameOverScreen.xnb</Output>
+      <Time>2014-08-25T16:22:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MenuBackground.png</Source>
+      <Name>Backgrounds\MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb</Output>
+      <Time>2014-08-27T13:03:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\textBox.png</Source>
+      <Name>Images\textBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\textBox.xnb</Output>
+      <Time>2014-09-02T09:17:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\CaptKrebs.png</Source>
+      <Name>Images\CaptKrebs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\CaptKrebs.xnb</Output>
+      <Time>2014-09-03T15:29:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pay.png</Source>
+      <Name>Images\pay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\pay.xnb</Output>
+      <Time>2014-09-03T16:04:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\haliday.png</Source>
+      <Name>Images\haliday</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\haliday.xnb</Output>
+      <Time>2014-09-03T16:04:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fletcher.png</Source>
+      <Name>Images\fletcher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fletcher.xnb</Output>
+      <Time>2014-09-03T16:30:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\clark.png</Source>
+      <Name>Images\clark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\clark.xnb</Output>
+      <Time>2014-09-03T16:04:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\key.png</Source>
+      <Name>Images\key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\key.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\lockedDoor.png</Source>
+      <Name>Images\lockedDoor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\lockedDoor.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\naga.png</Source>
+      <Name>Images\naga</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\naga.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\player.png</Source>
+      <Name>Images\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\player.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile5.png</Source>
+      <Name>Images\tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile5.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tileb.png</Source>
+      <Name>Images\tileb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tileb.xnb</Output>
+      <Time>2014-09-07T22:25:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tiled.png</Source>
+      <Name>Images\tiled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tiled.xnb</Output>
+      <Time>2014-09-04T12:01:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\airdemon.png</Source>
+      <Name>Images\airdemon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\airdemon.xnb</Output>
+      <Time>2014-09-04T15:09:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\butterfly.png</Source>
+      <Name>Images\butterfly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\butterfly.xnb</Output>
+      <Time>2014-09-04T15:10:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\centipede_earth.png</Source>
+      <Name>Images\centipede_earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_earth.xnb</Output>
+      <Time>2014-09-04T15:06:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\centipede_fire.png</Source>
+      <Name>Images\centipede_fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_fire.xnb</Output>
+      <Time>2014-09-04T15:07:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fireworm.png</Source>
+      <Name>Images\fireworm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fireworm.xnb</Output>
+      <Time>2014-09-04T15:02:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fish.png</Source>
+      <Name>Images\fish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fish.xnb</Output>
+      <Time>2014-09-04T15:04:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\golem.png</Source>
+      <Name>Images\golem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\golem.xnb</Output>
+      <Time>2014-09-04T14:59:14-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\KingJames.PNG</Source>
+      <Name>Images\KingJames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\KingJames.xnb</Output>
+      <Time>2014-09-04T14:55:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\map_clark.png</Source>
+      <Name>Images\map_clark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_clark.xnb</Output>
+      <Time>2014-09-04T12:39:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\map_fletcher.png</Source>
+      <Name>Images\map_fletcher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_fletcher.xnb</Output>
+      <Time>2014-09-04T12:35:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\map_halliday.png</Source>
+      <Name>Images\map_halliday</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_halliday.xnb</Output>
+      <Time>2014-09-04T12:38:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\map_king_james.png</Source>
+      <Name>Images\map_king_james</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_king_james.xnb</Output>
+      <Time>2014-09-04T12:41:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\map_pay.png</Source>
+      <Name>Images\map_pay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_pay.xnb</Output>
+      <Time>2014-09-04T12:37:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wallTile0.png</Source>
+      <Name>Images\wallTile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile0.xnb</Output>
+      <Time>2014-09-07T20:52:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wallTile1.png</Source>
+      <Name>Images\wallTile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile1.xnb</Output>
+      <Time>2014-09-07T20:54:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wallTile2.png</Source>
+      <Name>Images\wallTile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile2.xnb</Output>
+      <Time>2014-09-07T20:56:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wallTile3.png</Source>
+      <Name>Images\wallTile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile3.xnb</Output>
+      <Time>2014-09-07T20:55:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile3d.png</Source>
+      <Name>Images\tile3d</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3d.xnb</Output>
+      <Time>2014-09-07T23:58:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mapItem.png</Source>
+      <Name>Images\mapItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\mapItem.xnb</Output>
+      <Time>2014-09-09T23:37:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ControlFont.spritefont</Source>
+      <Name>Fonts\ControlFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Fonts\ControlFont.xnb</Output>
+      <Time>2014-08-22T14:55:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\BackgroundMusic.mp3</Source>
+      <Name>Music\BackgroundMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\BackgroundMusic.xnb</Output>
+      <Extra>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\BackgroundMusic.wma</Extra>
+      <Time>2014-09-09T09:43:03.8085859-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Battle.mp3</Source>
+      <Name>Music\Battle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Battle.xnb</Output>
+      <Extra>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Battle.wma</Extra>
+      <Time>2014-09-09T09:43:03.8235867-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Vogel im Kafig.mp3</Source>
+      <Name>Music\Vogel im Kafig</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Vogel im Kafig.xnb</Output>
+      <Extra>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Vogel im Kafig.wma</Extra>
+      <Time>2014-09-09T09:43:03.8385876-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\shop.png</Source>
+      <Name>Images\shop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\shop.xnb</Output>
+      <Time>2014-09-10T12:04:00.8315507-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-07T16:24:09.3104989-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

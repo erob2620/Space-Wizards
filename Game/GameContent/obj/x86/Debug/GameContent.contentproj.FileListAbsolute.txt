@@ -1,0 +1,5 @@
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\lringleka\Documents\spacewizards\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache

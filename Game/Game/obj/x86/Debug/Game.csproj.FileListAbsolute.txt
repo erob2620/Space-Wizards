@@ -1,0 +1,185 @@
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\SpaceWizard.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\spacewizardstitle.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\CombatBackground.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\firstEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\secondEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\thirdEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\tile0.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\tile1.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\tile2.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\tile3.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizardsDemo\Game\Game\Game\bin\x86\Debug\Content\Images\tile4.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\spacewizardstitle.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\CombatBackground.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\firstEnemy.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\secondEnemy.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\thirdEnemy.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile0.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile2.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile4.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile1.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\spacewizardstitle.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\CombatBackground.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\firstEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\secondEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\thirdEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile0.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile1.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile2.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile4.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\GameOverScreen.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\textBox.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\CaptKrebs.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\pay.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\haliday.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fletcher.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\SpaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\clark.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\key.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\lockedDoor.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\naga.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile5.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tileb.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tiled.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\airdemon.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\butterfly.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_earth.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_fire.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fireworm.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fish.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\golem.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\KingJames.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_clark.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_fletcher.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_halliday.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_king_james.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_pay.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\GameOverScreen.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\textBox.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\CaptKrebs.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\pay.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\haliday.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fletcher.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\clark.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\key.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\lockedDoor.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\naga.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile5.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tileb.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tiled.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\airdemon.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\butterfly.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_earth.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_fire.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fireworm.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fish.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\golem.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\KingJames.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_clark.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_fletcher.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_halliday.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_king_james.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_pay.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile0.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile1.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile2.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile3.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3d.xnb
+C:\Users\Adam Schopeck\Documents\Visual Studio 2010\Projects\spacewizards\Game\Game\Game\bin\x86\Debug\Content\Images\mapItem.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\GUI\leftarrowUp.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\spacewizardstitle.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\CombatBackground.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\firstEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\secondEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\thirdEnemy.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile0.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile1.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile2.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile4.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\GameOverScreen.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\textBox.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\CaptKrebs.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\pay.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\haliday.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fletcher.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\clark.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\key.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\lockedDoor.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\naga.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile5.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tileb.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tiled.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\airdemon.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\butterfly.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_earth.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\centipede_fire.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fireworm.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\fish.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\golem.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\KingJames.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_clark.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_fletcher.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_halliday.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_king_james.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\map_pay.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile0.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile1.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile2.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\wallTile3.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\tile3d.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\mapItem.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\BackgroundMusic.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Battle.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Vogel im Kafig.xnb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\BackgroundMusic.wma
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Battle.wma
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Music\Vogel im Kafig.wma
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Emerson Roberts\Documents\code\.Net Projects\fianl\spaceWizards\Game\Game\Game\bin\x86\Debug\Content\Images\shop.xnb
